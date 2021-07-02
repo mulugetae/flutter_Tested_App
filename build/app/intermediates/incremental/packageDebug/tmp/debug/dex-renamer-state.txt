@@ -1,0 +1,4 @@
+#Fri Jul 02 18:15:43 EAT 2021
+base.0=/Users/debian/AndroidStudioProjects/project1/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
